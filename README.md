@@ -43,7 +43,11 @@ meteor update
 ![Welcome to 1.3](superbock.png)
 
 
-# Or ... Make controllers great again
+# Or...
+
+![Better js](Ce5nYp0W4AAxp5Z.jpg)
+
+[@ThePracticalDev](https://twitter.com/ThePracticalDev/status/715623065078644738)
 
 # NPM in the house
 
